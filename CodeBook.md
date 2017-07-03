@@ -1,6 +1,8 @@
 CodeBook
 ==============
 
+REQUIRES DPLYR CALLS library(dplyr)
+
 run_analysis.R takes data from:
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 {README.txt associate with data useful to peruse. In short: data collected from accelerometers
