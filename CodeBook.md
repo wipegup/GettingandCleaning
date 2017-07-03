@@ -37,7 +37,3 @@ Finally create "tableSummary" which aggregates the mean of each measured movemen
 subject and activity type.
 Arrange "tableSummary" by subject then activity.
 write "tableSummary" to text file "MovementActivitySummary.txt")
-
-
-
-Column bind subjects, activity, and movement data
