@@ -7,6 +7,9 @@ Assignment for Getting and Cleaning Data on Coursera
 * codebook.txt
 
 ### run_analysis.R
+
+REQUIRES DPLYR CALLS library(dplyr)
+
 r script
 * Downloads data from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * Merges "train" and "test" data
